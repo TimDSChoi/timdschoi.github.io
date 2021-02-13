@@ -87,7 +87,7 @@ team:
     section: team
     people:
       - name: "Byungkwon Kim"
-        role: "CEO / co-founder"
+        role: "CEO & Co-Founder"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -97,7 +97,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Dooseop Choi"
-        role: "Software Engineer / co-founder"
+        role: "Software Engineer & Co-Founder"
         image: assets/img/team/500x500.jpg
         social:
           - mailto: dschoi@actslab.kr
@@ -107,7 +107,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Bora Lim"
-        role: "Music Deginer / co-founder"
+        role: "Music Deginer & Co-Founder"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -117,7 +117,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Minkyung Jo"
-        role: "Counselor / co-founder"
+        role: "Counselor & Co-Founder"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
